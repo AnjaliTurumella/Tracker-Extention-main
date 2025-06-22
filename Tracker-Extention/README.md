@@ -1,6 +1,6 @@
 
 # Backend
-  - https://github.com/Kowshikvarma45/TrackerBE/tree/main/app/api (nii backend github url)
+  - https://github.com/AnjaliTurumella/Tracker-Extention-main
 
 # Frontend
   - Built with Vite, React, and TypeScript
